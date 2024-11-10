@@ -1,0 +1,13 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "/Users/aliso/Downloads",
+            "default": true
+        },
+        {
+            "name": "JavaSE-21",
+            "path": "/Users/aliso/Downloads"
+        }
+    ]
+}
